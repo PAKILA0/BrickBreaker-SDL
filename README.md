@@ -1,6 +1,8 @@
 # BrickBreaker-SDL
 A simple project for studying SDL
 
+You should be able to find all the necessary libraries to recompile the game via NuGet
+
 Left/Right Arrow To Control Paddles
 
 Up and Down Arrow To Contol Ball Size
